@@ -1,10 +1,10 @@
 name: MobCapturer
 version: ${project.version}
-author: TheBusyBiscuit
+author: plleg
 description: A Slimefun Addon that adds a tool that allows you to capture mobs
-website: https://github.com/TheBusyBiscuit/MobCapturer
+website: https://github.com/plleg/MobCapturer
 
-main: io.github.thebusybiscuit.mobcapturer.MobCapturer
+main: me.plleg.mobcapturer.MobCapturer
 depend: [Slimefun]
 
-api-version: 1.16
+api-version: 1.19

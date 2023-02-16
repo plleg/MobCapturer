@@ -1,6 +1,14 @@
 # :ghost: MobCapturer
+
+---
+
+Forked from https://github.com/Slimefun-Addon-Community/MobCapturer
+---
+
 MobCapturer is a [Slimefun4](https://github.com/Slimefun/Slimefun4/) Addon.<br>
 You need to install Slimefun4 in order for this plugin to work.
+
+Requires Minecraft 1.19.3 and [Slimefun](https://github.com/Slimefun/Slimefun4)
 
 MobCapturer is a Slimefun4 Addon that adds a cannon which allows you to capture mobs.<br>
 This Plugin is heavily inspired by the Safari-Nets from the mod [MineFactory Reloaded](https://www.curseforge.com/minecraft/mc-mods/minefactory-reloaded).
@@ -11,15 +19,6 @@ Take aim and shoot at any mob.
 Currently only some mobs are actually compatible with this Plugin.<br>
 But the mobs that do work work extremely well!<br>
 The captured mobs will retain attributes, potion effects, fire ticks, custom names, their health and even entity-specific traits like wool colors and much more.
-
-## :floppy_disk: Download MobCapturer
-You can download MobCapturer right here: [Development Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/)
-
-<p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/badge.svg" alt="Build Server"/>
-  </a>
-</p>
 
 ## :gear: config
 You can change the following settings in `config.yml`:
@@ -43,5 +42,5 @@ The Slimefun Addon Community also has its own discord server for any of our proj
 </p>
 
 ## :balance_scale: Open Source / License
-This Project is open-source and licensed under the [MIT License](https://github.com/Slimefun-Addon-Community/MobCapturer/blob/master/LICENSE)<br>
+This Project is open-source and licensed under the [MIT License](https://github.com/plleg/MobCapturer/blob/master/LICENSE)<br>
 Pull Requests are welcome!
